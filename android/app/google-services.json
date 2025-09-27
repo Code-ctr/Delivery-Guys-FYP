@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118839069025",
+    "project_id": "delivery-guys-database",
+    "storage_bucket": "delivery-guys-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118839069025:android:95f06e8628d0d84c195d20",
+        "android_client_info": {
+          "package_name": "com.example.delivery_guys_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCbLBED2TiSjtmusvKHfnvILRTZ3ec8gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
